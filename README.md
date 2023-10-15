@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabhpatel7
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning SDE
+- 🌱 I’m currently working as SDE
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
